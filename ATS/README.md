@@ -52,7 +52,7 @@ The last step is to classify into cover and stego.
 $ ./ATS_SVM_FS.py
 ./ATS_SVM_FS.py <A> <B> <C> <labels>
 ```
-If we do not give the labels to the script it does a prediction. But in our case, as far as we know the labels of the testing set, the script can calculate the accuracy of the prediction:
+If we do not give the labels to the script it performs a prediction. But in our case, as far as we know the labels of the testing set, the script can calculate the accuracy of the prediction:
 
 ```bash
 $ ./ATS_SVM_FS.py
