@@ -56,7 +56,7 @@ If we do not give the labels to the script it performs a prediction. But in our 
 
 ```bash
 $ ./ATS_SVM_FS.py
-./ATS_SVM_FS.py out/ATS_RM_HUGO_0.4_boss500_50/A_COMMON/ out/ATS_RM_HUGO_0.4_boss500_50/B_HUGO_040 out/ATS_RM_HUGO_0.4_boss500_50/B_HUGO_040 out/HUGO_0.4_boss500_50/labels.txt
+./ATS_SVM_FS.py out/ATS_RM_HUGO_0.4_boss500_50/A_COMMON/ out/ATS_RM_HUGO_0.4_boss500_50/C_HUGO_040 out/ATS_RM_HUGO_0.4_boss500_50/B_HUGO_040 out/HUGO_0.4_boss500_50/labels.txt
 Accuracy:  0.828
 ```
 
