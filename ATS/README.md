@@ -1,6 +1,6 @@
 ## ATS Steganalysis
 
-Implementation of the method proposed in the paper (Unsupervised steganalysis based on Artificial Training Sets)[http://www.sciencedirect.com/science/article/pii/S0952197616000026].
+Implementation of the method proposed in the paper [Unsupervised steganalysis based on Artificial Training Sets](http://www.sciencedirect.com/science/article/pii/S0952197616000026).
 
 ### Example:
 
